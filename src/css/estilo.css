@@ -10,6 +10,9 @@ p {
 color: #fff;
 
 }
+img {
+    position: auto;
+}
 .carrossel {
     position: fixed;
     top: 0;
